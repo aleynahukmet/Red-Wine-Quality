@@ -1,9 +1,4 @@
 # Red-Wine-Quality
-<p align="center"> 
-   <img alt="https://user-images.githubusercontent.com/87663976/143589307-4abe41fe-3137-4e05-8fcf-dd0861bed1a7.jpg">
-</p>
-
-
 In this project we trying to predict the quality of red wine. We are having data analysis and visualization to understand the relationship between some features and wine quality.
 
 # Dataset
